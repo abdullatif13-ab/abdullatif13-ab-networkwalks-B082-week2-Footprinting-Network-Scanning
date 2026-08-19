@@ -219,7 +219,11 @@ nmap -sn 192.168.18.0/24
     ├── 07-nmap-output.png
     └── 08-topology.png
 ```
+## 📄 Full Report
 
+The complete penetration testing report for both modules — covering the disclaimer,
+methodology, findings, risk analysis, recommendations and all evidence — is available
+here: [`W2-PM-FINAL_Abdullatif_Abuzannad.pdf`](docs/W2-PM-FINAL_Abdullatif_Abuzannad.pdf)
 ---
 
 ## 📄 Disclaimer
